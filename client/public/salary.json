@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Warehouse Associate",
+        "salary": "Average Salary 10 Lakh Pkr per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 2,
+        "title": "Backend Developer",
+        "salary": "Average Salary 15 Lakh Pkr per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 3,
+        "title": "Front Desk Agent",
+        "salary": "Average Salary 20 Lakh Pkr per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 4,
+        "title": "Crew Member",
+        "salary": "Average Salary 22 Lakh Pkr per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 5,
+        "title": "Software Engineer",
+        "salary": "Average Salary 6 Lakh Pkr per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 6,
+        "title": "App Developer",
+        "salary": "Average Salary 5 Lakh Pkr per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 7,
+        "title": "UI/UX Designer",
+        "salary": "Average Salary 30 Lakh Pkr per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 8,
+        "title": "Web Developer",
+        "salary": "Average Salary 25 Lakh Pkr per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 9,
+        "title": "Full Stack Developer",
+        "salary": "Average Salary 13 Lakh Pkr per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    }
+]
